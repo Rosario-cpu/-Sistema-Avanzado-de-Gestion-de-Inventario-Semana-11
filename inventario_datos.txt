@@ -1,0 +1,11 @@
+587,Monitores LED,35,2.098
+389,Computadora lENOVO,40,5.268
+102,Mouse Mecánico,50,96.0
+756,Smartwatches,60,850.0
+097,Phone 17Pro,15,970.0
+698,Celular Phone 17Pro,10,968.0
+0065,Memoria USB,60,852.0
+7032,Proyector,10,624.0
+7005,Cámara Web,20,857.0
+258,Impresoras,60,489.0
+2,Barras de sonido,60,236.0
