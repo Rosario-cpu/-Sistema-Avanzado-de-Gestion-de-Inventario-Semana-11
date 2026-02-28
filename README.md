@@ -1,4 +1,5 @@
 Sistema de Gestión de Inventario - Semana 11
+
 Este proyecto es una aplicación de consola desarrollada en Python para la administración eficiente de un inventario de productos.
 
 Características Técnicas:
